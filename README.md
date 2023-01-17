@@ -1,3 +1,7 @@
+TextUtility is a word counter and a character counting utility which can be used to manipulate your text in the way you want.You can remove extra spaces,copy the manipulated text as well as convert your text from uppercase to lowercase and lowercase to uppercase
+
+Link: https://text-utility-analyser.netlify.app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
